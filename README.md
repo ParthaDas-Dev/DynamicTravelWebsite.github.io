@@ -8,4 +8,4 @@ Visit: The Static Version : https://parthadas-dev.github.io/DynamicTravelWebsite
       
  The Dynamic version : https://dynamictravelwebsite.000webhostapp.com/index.php
        
-Note: Fews Changes were made in the dynamic version of this website, therefore static version of the website make look or feel slightly different.
+Note: Fews Changes were made in the dynamic version of this website, therefore static version of the website might look or feel slightly different.
